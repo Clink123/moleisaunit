@@ -1,0 +1,190 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+html {
+    margin:0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+   padding-top:0px;
+   margin-top: 0px;
+}
+
+#navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #033649;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+}
+
+li {
+    float: left;
+    margin: 0;
+    padding:0;
+}
+
+#active{
+    background-color: #036564;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1vh 1.2vh;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #036564;
+    color:white;
+    text-decoration: none;
+}
+
+.float-right{
+    float: right;
+}
+
+
+#home{
+    text-align: center;
+    background-color: #031634;
+    color:white;
+    height:100vh;
+    font-size: 3vh;
+}
+
+#home h1{
+    padding-top: 40vh;
+}
+
+#part1main{
+    background-color: #031634;
+    color:white;
+    height:100vh;
+    text-align: center;
+    
+}
+#part2main{
+    background-color: #031645;
+    height:100vh;
+}
+#this{
+    padding-left:25%;
+    padding-right:30%;
+    padding-top: 20vh;
+}
+.jumbotron{
+    padding-left: 10%;
+    border:20px;
+    border-radius:6px;
+    background-color: #E8DDCB;
+}
+#part1main h1{
+    padding-top: 30vh;
+    font-size:8vh;
+}
+#part1main h3{
+    font-size:4vh;
+}
+#part1main p{
+    padding-top: 49vh;
+}
+
+#part1section1{
+    font-size:2vh;
+    padding-top: 5vh;
+    background-color: #031639;
+    color:white;
+    text-align: center;
+}
+
+#part2section1{
+    background-color: #031634;
+    color:white;
+    height:100vh;
+}
+#part2section1-1{
+    padding-left:10%;
+}
+#part2section1 h1{
+    padding-top:20vh;
+}
+#part2section1 img{
+    height:35vh;
+    width:auto;
+    padding-top:10vh;
+    padding-right:20%;
+}
+
+#part2section2{
+    padding-top:10vh;
+    padding-right:0;
+}
+
+#part2section2 img{
+    height:30vh;
+    width:auto;
+    padding-left:10%;
+    padding-right:15%;
+}
+.card{
+    background-color: #033649;
+}
+#padherepad{
+    padding-top:30vh;
+}
+.center{
+    text-align: center;
+    padding-right:29%;
+    padding-left:29%;
+}
+#changethiscolor{
+    color: #CDB380;
+}
+
+#world{
+    padding-top: 70%;
+}
+
+.jumbotron p{
+    padding-right:3%;
+}
+
+#world2{
+    background-color: #031634;
+}
+
+#calculations{
+    margin:0;
+    padding-top:5vh;
+    text-align: center;
+}
+.row{
+    padding: 0;
+    margin:0;
+}
+
+#firstpadding{
+    padding-top:4vh;
+}
+
+#citations{
+    padding-top:10vh;
+    background-color: #031634;
+    color:white;
+    text-align: center;
+    padding-bottom:10vh;
+}
